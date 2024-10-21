@@ -1,16 +1,35 @@
-## Hi there 👋
+## 👋 ¡Hola! Soy Diego Toledo
 
-<!--
-**diegotoledoapselom/diegotoledoapselom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador especializado en **Backend** y **DevOps**. Actualmente trabajo en [Apselom](https://apselom.com), donde lidero el área de DevOps, asegurándome de que todo funcione de manera eficiente y escalable. 🚀
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologías y Herramientas:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Backend**:
+  - 🐘 **PHP** (Laravel)
+  - 🐍 **Python** (Django)
+- **DevOps**:
+  - 🐧 **Linux**
+  - 🐋 **Docker**
+  - 🌍 **Terraform**
+  - ☸️ **Kubernetes**
+  - 🧰 **Ansible**
+  - 📦 **Helm**
+  - 📜 **NGINX**
+  - ☁️ **AWS**, **Google Cloud**
+  - 🏗️ **CI/CD** con **GitHub Actions**, **GitLab CI**, **Jenkins**
+
+### 🚀 Sobre mí:
+
+- 🎯 Apasionado por automatizar procesos y mejorar la infraestructura de los proyectos.
+- 📈 En constante aprendizaje para mejorar las prácticas de **DevOps**.
+- 🤖 Me gusta jugar con **IA/ML**, experimentar con nuevos frameworks y optimizar el rendimiento del código.
+
+### 🌱 Actualmente:
+
+- Trabajando en proyectos que integran **CI/CD**, contenedores y despliegues en la nube.
+- Aprendiendo más sobre **observabilidad** y **monitorización** con herramientas como **Prometheus** y **Grafana**.
+
+### 📫 ¡Conecta conmigo!
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/dbta)
+- 📧 diego.toledo@apselom.com
